@@ -25,8 +25,10 @@ The solution is production-oriented and includes persisted model and preprocessi
 - **summary.md**: Executive summary covering approach, findings, business impact, and deployment recommendations.
 - **Model artifacts (.pkl)**: Trained model and preprocessing components required for reproducible inference.
 
-## Final Notes
-This project reflects how I approach applied machine learning problems: understanding the baseline first, making deliberate trade-offs, validating rigorously, and always aligning technical decisions with business impact and deployment realities.
+## Professional Reflection
+
+This challenge reflects how I usually approach data science work in practice. I start putting a lot of emphasis on understanding the baseline, validating assumptions, and making improvements that are intentional and explainable rather than complex for the sake of complexity. I also found this exercise particularly interesting because of the time constraints: it forced me to prioritize what truly matters, make trade-offs consciously, and focus on delivering a solution that is both solid and realistic. This way of working comes from experience delivering models in real environments, where clarity, reliability, and practical impact are just as important as raw performance metrics.
+
 
 
 
